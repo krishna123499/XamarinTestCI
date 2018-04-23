@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C7B30F84-BA03-41D4-B906-AC0AF8AD68AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestFormsAutoBuild/App.xaml.cs">
+    <Files>
+      <File FileName="TestFormsAutoBuild/App.xaml.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestFormsAutoBuild FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestFormsAutoBuild.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.91436BC3-5965-4621-9150-83CF384AFDEA" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestFormsAutoBuild.iOS>
+  <MonoDevelop.Ide.ItemProperties.TestFormsAutoBuild.Droid FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
